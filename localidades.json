@@ -1,0 +1,2916 @@
+[
+{
+"n": "11 de Septiembre",
+"p": "Buenos Aires",
+"f": "24/48 hs",
+"s": "Tres de Febrero"
+},
+{
+"n": "Abasto",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "La Plata"
+},
+{
+"n": "Acassuso",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "Vicente López"
+},
+{
+"n": "Adrogué",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "Almirante Brown"
+},
+{
+"n": "Aldo Bonzi",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "La Matanza"
+},
+{
+"n": "Alejandro Korn",
+"p": "Buenos Aires",
+"f": "Ma-Ju",
+"s": "Almirante Brown"
+},
+{
+"n": "Almirante Brown",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "Almirante Brown"
+},
+{
+"n": "Arana",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "La Plata"
+},
+{
+"n": "Arrecifes",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "Arrecifes"
+},
+{
+"n": "Arturo Seguí",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "La Plata"
+},
+{
+"n": "Avellaneda Bs. As.",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "Avellaneda"
+},
+{
+"n": "Azul",
+"p": "Buenos Aires",
+"f": "24/48 hs",
+"s": "Azul"
+},
+{
+"n": "Bahía Blanca",
+"p": "Buenos Aires",
+"f": "48/72 hs",
+"s": "Bahía Blanca"
+},
+{
+"n": "Banfield",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "Lomas de Zamora"
+},
+{
+"n": "Baradero",
+"p": "Buenos Aires",
+"f": "Ma-Ju",
+"s": "Campana"
+},
+{
+"n": "Barrio San José",
+"p": "Buenos Aires",
+"f": "48 hs",
+"s": "Almirante Brown"
+},
+{
+"n": "Beccar",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "General Pacheco"
+},
+{
+"n": "Bella Vista",
+"p": "Buenos Aires",
+"f": "Lu-Mi-Vi",
+"s": "Moreno"
+},
+{
+"n": "Belén de Escobar",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "Escobar"
+},
+{
+"n": "Benavídez",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "General Pacheco"
+},
+{
+"n": "Berazategui",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "Berazategui"
+},
+{
+"n": "Berisso",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "La Plata"
+},
+{
+"n": "Bernal",
+"p": "Buenos Aires",
+"f": "24/48 hs",
+"s": "Quilmes"
+},
+{
+"n": "Bosques",
+"p": "Buenos Aires",
+"f": "Ma-Ju",
+"s": "Berazategui"
+},
+{
+"n": "Boulogne Sur Mer",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "General Pacheco"
+},
+{
+"n": "Burzaco",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "Almirante Brown"
+},
+{
+"n": "Cabildo",
+"p": "Buenos Aires",
+"f": "48/72 hs",
+"s": "Bahía Blanca"
+},
+{
+"n": "Campana",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "Campana"
+},
+{
+"n": "Canning",
+"p": "Buenos Aires",
+"f": "72 hs",
+"s": "Almirante Brown"
+},
+{
+"n": "Capital Federal",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "Capital Federal"
+},
+{
+"n": "Carapachay",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "Villa Martelli"
+},
+{
+"n": "Carlos Keen",
+"p": "Buenos Aires",
+"f": "Mi",
+"s": "Luján"
+},
+{
+"n": "Carlos Spegazzini",
+"p": "Buenos Aires",
+"f": "72 hs",
+"s": "Almirante Brown"
+},
+{
+"n": "Carmen de Areco",
+"p": "Buenos Aires",
+"f": "Lu-Mi-Vi",
+"s": "San Antonio de Areco"
+},
+{
+"n": "Caseros",
+"p": "Buenos Aires",
+"f": "24/48 hs",
+"s": "Tres de Febrero"
+},
+{
+"n": "Castelar",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "Morón"
+},
+{
+"n": "Chilavert",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "General San Martín"
+},
+{
+"n": "Chivilcoy",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "Chivilcoy"
+},
+{
+"n": "Churruca",
+"p": "Buenos Aires",
+"f": "24/48 hs",
+"s": "Tres de Febrero"
+},
+{
+"n": "City Bell",
+"p": "Buenos Aires",
+"f": "Ma-Ju",
+"s": "La Plata"
+},
+{
+"n": "Ciudad Jardín",
+"p": "Buenos Aires",
+"f": "24/48 hs",
+"s": "Tres de Febrero"
+},
+{
+"n": "Ciudadela",
+"p": "Buenos Aires",
+"f": "24/48 hs",
+"s": "Tres de Febrero"
+},
+{
+"n": "Claypole",
+"p": "Buenos Aires",
+"f": "24/48 hs",
+"s": "Almirante Brown"
+},
+{
+"n": "Cortines",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "Luján"
+},
+{
+"n": "Cruce de F. Varela",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "Berazategui"
+},
+{
+"n": "Crucecita",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "Avellaneda"
+},
+{
+"n": "Del Viso",
+"p": "Buenos Aires",
+"f": "24/48 hs",
+"s": "Pilar"
+},
+{
+"n": "Dock Sud",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "Avellaneda"
+},
+{
+"n": "Don Bosco",
+"p": "Buenos Aires",
+"f": "24/48 hs",
+"s": "Quilmes"
+},
+{
+"n": "Don Orione",
+"p": "Buenos Aires",
+"f": "24/48 hs",
+"s": "Almirante Brown"
+},
+{
+"n": "Don Torcuato",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "General Pacheco"
+},
+{
+"n": "El Jaguel",
+"p": "Buenos Aires",
+"f": "72 hs",
+"s": "Almirante Brown"
+},
+{
+"n": "El Libertador",
+"p": "Buenos Aires",
+"f": "24/48 hs",
+"s": "Tres de Febrero"
+},
+{
+"n": "El Palomar",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "Morón"
+},
+{
+"n": "El Pato",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "Berazategui"
+},
+{
+"n": "El Talar",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "General Pacheco"
+},
+{
+"n": "Ensenada",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "La Plata"
+},
+{
+"n": "Escobar",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "Escobar"
+},
+{
+"n": "Ezeiza",
+"p": "Buenos Aires",
+"f": "72 hs",
+"s": "Almirante Brown"
+},
+{
+"n": "Ezpeleta",
+"p": "Buenos Aires",
+"f": "24/48 hs",
+"s": "Quilmes"
+},
+{
+"n": "Florencio Varela (Ctro.)",
+"p": "Buenos Aires",
+"f": "Ma-Ju",
+"s": "Berazategui"
+},
+{
+"n": "Florida Este",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "Vicente López"
+},
+{
+"n": "Florida Oeste",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "Villa Martelli"
+},
+{
+"n": "Francisco Álvarez",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "Moreno"
+},
+{
+"n": "Fátima",
+"p": "Buenos Aires",
+"f": "Lu-Mi-Vi",
+"s": "Pilar"
+},
+{
+"n": "Garín",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "General Pacheco"
+},
+{
+"n": "Garín -Parque industrial",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "Escobar"
+},
+{
+"n": "General Rodríguez",
+"p": "Buenos Aires",
+"f": "Ma-Ju",
+"s": "Luján"
+},
+{
+"n": "Gerli CP 1823",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "Lanús"
+},
+{
+"n": "Gerli CP 1869",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "Avellaneda"
+},
+{
+"n": "Gernica",
+"p": "Buenos Aires",
+"f": "Ma-Ju",
+"s": "Almirante Brown"
+},
+{
+"n": "Glew",
+"p": "Buenos Aires",
+"f": "48 hs",
+"s": "Almirante Brown"
+},
+{
+"n": "Gonnet",
+"p": "Buenos Aires",
+"f": "Ma-Ju",
+"s": "La Plata"
+},
+{
+"n": "Gorina",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "La Plata"
+},
+{
+"n": "Gral. Daniel Cerri",
+"p": "Buenos Aires",
+"f": "48/72 hs",
+"s": "Bahía Blanca"
+},
+{
+"n": "Gral. Pacheco",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "General Pacheco"
+},
+{
+"n": "Grand Bourg",
+"p": "Buenos Aires",
+"f": "24/48 hs",
+"s": "Pilar"
+},
+{
+"n": "Guillermo E. Hudson",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "Berazategui"
+},
+{
+"n": "Gutierrez",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "Berazategui"
+},
+{
+"n": "Haedo",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "Morón"
+},
+{
+"n": "Hurlingham",
+"p": "Buenos Aires",
+"f": "48 hs",
+"s": "Morón"
+},
+{
+"n": "Ingeniero Maschwitz",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "General Pacheco"
+},
+{
+"n": "Ingeniero White",
+"p": "Buenos Aires",
+"f": "48/72 hs",
+"s": "Bahía Blanca"
+},
+{
+"n": "Isidro Casanova",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "La Matanza"
+},
+{
+"n": "Ituzaingó",
+"p": "Buenos Aires",
+"f": "48 hs",
+"s": "Morón"
+},
+{
+"n": "Jauregui",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "Luján"
+},
+{
+"n": "José C. Paz",
+"p": "Buenos Aires",
+"f": "Ma-Ju",
+"s": "Pilar"
+},
+{
+"n": "José Ingenieros",
+"p": "Buenos Aires",
+"f": "24/48 hs",
+"s": "Tres de Febrero"
+},
+{
+"n": "José León Suárez",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "General San Martín"
+},
+{
+"n": "José Mármol",
+"p": "Buenos Aires",
+"f": "24/48 hs",
+"s": "Almirante Brown"
+},
+{
+"n": "Junín",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "Junín"
+},
+{
+"n": "La Emilia",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "San Nicolás"
+},
+{
+"n": "La Lonja",
+"p": "Buenos Aires",
+"f": "24/48 hs",
+"s": "Pilar"
+},
+{
+"n": "La Lucila",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "Vicente López"
+},
+{
+"n": "La Plata",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "La Plata"
+},
+{
+"n": "La Reja",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "Moreno"
+},
+{
+"n": "La Unión",
+"p": "Buenos Aires",
+"f": "72 hs",
+"s": "Almirante Brown"
+},
+{
+"n": "Lanús Este",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "Lanús"
+},
+{
+"n": "Lanús Oeste",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "Lanús"
+},
+{
+"n": "Lavallol",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "Lomas de Zamora"
+},
+{
+"n": "Lima",
+"p": "Buenos Aires",
+"f": "Ma-Ju",
+"s": "Zárate"
+},
+{
+"n": "Lisandro Olmos",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "La Plata"
+},
+{
+"n": "Loma Hermosa",
+"p": "Buenos Aires",
+"f": "24/48 hs",
+"s": "Tres de Febrero"
+},
+{
+"n": "Loma Verde",
+"p": "Buenos Aires",
+"f": "Martes",
+"s": "Escobar"
+},
+{
+"n": "Lomas de Zamora",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "Lomas de Zamora"
+},
+{
+"n": "Lomas del Mirador",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "La Matanza"
+},
+{
+"n": "Lomas del Palomar",
+"p": "Buenos Aires",
+"f": "24/48 hs",
+"s": "Tres de Febrero"
+},
+{
+"n": "Longchamps",
+"p": "Buenos Aires",
+"f": "48 hs",
+"s": "Almirante Brown"
+},
+{
+"n": "Los Hornos",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "La Plata"
+},
+{
+"n": "Los Polvorines",
+"p": "Buenos Aires",
+"f": "24/48 hs",
+"s": "Pilar"
+},
+{
+"n": "Los Porteños",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "La Plata"
+},
+{
+"n": "Los Troncos del Talar",
+"p": "Buenos Aires",
+"f": "24/48 hs",
+"s": "Tigre"
+},
+{
+"n": "Luis Guillon",
+"p": "Buenos Aires",
+"f": "24/48 hs",
+"s": "Almirante Brown"
+},
+{
+"n": "Luján",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "Luján"
+},
+{
+"n": "Malaver",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "General San Martín"
+},
+{
+"n": "Manuel Alberti",
+"p": "Buenos Aires",
+"f": "24/48 hs",
+"s": "Pilar"
+},
+{
+"n": "Manzanares",
+"p": "Buenos Aires",
+"f": "Lu-Mi-Vi",
+"s": "Pilar"
+},
+{
+"n": "Mar del Plata",
+"p": "Buenos Aires",
+"f": "24/48 hs",
+"s": "Mar del Plata"
+},
+{
+"n": "Martín Coronado",
+"p": "Buenos Aires",
+"f": "24/48 hs",
+"s": "Tres de Febrero"
+},
+{
+"n": "Martínez",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "Vicente López"
+},
+{
+"n": "Matheu",
+"p": "Buenos Aires",
+"f": "Lu-Mi-Vi",
+"s": "Escobar"
+},
+{
+"n": "Melchor Romero",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "La Plata"
+},
+{
+"n": "Mercedes",
+"p": "Buenos Aires",
+"f": "Ma-Ju",
+"s": "San Antonio de Areco"
+},
+{
+"n": "Merlo centro",
+"p": "Buenos Aires",
+"f": "48 hs",
+"s": "Morón"
+},
+{
+"n": "Miguelete",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "General San Martín"
+},
+{
+"n": "Ministro Rivadavia",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "Almirante Brown"
+},
+{
+"n": "Monte Chingolo",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "Lanús"
+},
+{
+"n": "Monte Grande",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "Almirante Brown"
+},
+{
+"n": "Moreno",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "Moreno"
+},
+{
+"n": "Morón",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "Morón"
+},
+{
+"n": "Munro",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "Villa Martelli"
+},
+{
+"n": "Muñiz",
+"p": "Buenos Aires",
+"f": "Lu-Mi-Vi",
+"s": "Moreno"
+},
+{
+"n": "Olavarría",
+"p": "Buenos Aires",
+"f": "24/48 hs",
+"s": "Azul"
+},
+{
+"n": "Olivera",
+"p": "Buenos Aires",
+"f": "Miércoles",
+"s": "Luján"
+},
+{
+"n": "Olivos",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "Vicente López"
+},
+{
+"n": "Open Door",
+"p": "Buenos Aires",
+"f": "Miércoles",
+"s": "Luján"
+},
+{
+"n": "Pablo Nogues",
+"p": "Buenos Aires",
+"f": "24/48 hs",
+"s": "General Pacheco"
+},
+{
+"n": "Pablo Podesta",
+"p": "Buenos Aires",
+"f": "24/48 hs",
+"s": "Tres de Febrero"
+},
+{
+"n": "Paso del Rey",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "Moreno"
+},
+{
+"n": "Pereyra",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "Berazategui"
+},
+{
+"n": "Pergamino",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "Pergamino"
+},
+{
+"n": "Pilar",
+"p": "Buenos Aires",
+"f": "24/48 hs",
+"s": "Pilar"
+},
+{
+"n": "Pilar - Pqe. Industrial",
+"p": "Buenos Aires",
+"f": "24/48 hs",
+"s": "Pilar"
+},
+{
+"n": "Piñeyro",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "Avellaneda"
+},
+{
+"n": "Plátanos",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "Berazategui"
+},
+{
+"n": "Presidente Derqui",
+"p": "Buenos Aires",
+"f": "Ma-Ju",
+"s": "Pilar"
+},
+{
+"n": "Punta Alta",
+"p": "Buenos Aires",
+"f": "48/72 hs",
+"s": "Bahía Blanca"
+},
+{
+"n": "Punta Lara",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "La Plata"
+},
+{
+"n": "Quilmes",
+"p": "Buenos Aires",
+"f": "24/48 hs",
+"s": "Quilmes"
+},
+{
+"n": "R. de Escalada",
+"p": "Buenos Aires",
+"f": "24/48 hs",
+"s": "Lanús"
+},
+{
+"n": "R. de Escalada de S.M.",
+"p": "Buenos Aires",
+"f": "24/48 hs",
+"s": "Tres de Febrero"
+},
+{
+"n": "Rafael Calzada",
+"p": "Buenos Aires",
+"f": "24/48 hs",
+"s": "Almirante Brown"
+},
+{
+"n": "Ramallo",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "San Nicolás"
+},
+{
+"n": "Ramos Mejía",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "La Matanza"
+},
+{
+"n": "Ranelagh",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "Berazategui"
+},
+{
+"n": "Ricardo Rojas",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "General Pacheco"
+},
+{
+"n": "Rincón de Milberg",
+"p": "Buenos Aires",
+"f": "24/48 hs",
+"s": "Tigre"
+},
+{
+"n": "Rinquelet",
+"p": "Buenos Aires",
+"f": "Ma-Ju",
+"s": "La Plata"
+},
+{
+"n": "S. Fco. Solano Cod. 1846",
+"p": "Buenos Aires",
+"f": "48 hs",
+"s": "Almirante Brown"
+},
+{
+"n": "S. Fco. Solano Cod. 1881",
+"p": "Buenos Aires",
+"f": "Ma-Ju",
+"s": "Quilmes"
+},
+{
+"n": "Saenz Peña",
+"p": "Buenos Aires",
+"f": "24/48 hs",
+"s": "Tres de Febrero"
+},
+{
+"n": "Salto",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "Arrecifes"
+},
+{
+"n": "San Andres de Giles",
+"p": "Buenos Aires",
+"f": "Lu-Mi-Vi",
+"s": "San Antonio de Areco"
+},
+{
+"n": "San Andrés",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "General San Martín"
+},
+{
+"n": "San Antonio de Areco",
+"p": "Buenos Aires",
+"f": "24/48 hs",
+"s": "San Antonio de Areco"
+},
+{
+"n": "San Antonio de Padua",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "Morón"
+},
+{
+"n": "San Fernando",
+"p": "Buenos Aires",
+"f": "24/48 hs",
+"s": "Tigre"
+},
+{
+"n": "San Isidro",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "General Pacheco"
+},
+{
+"n": "San Justo",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "La Matanza"
+},
+{
+"n": "San Martín",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "General San Martín"
+},
+{
+"n": "San Miguel",
+"p": "Buenos Aires",
+"f": "Lu-Mi-Vi",
+"s": "Moreno"
+},
+{
+"n": "San Nicolás",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "San Nicolás"
+},
+{
+"n": "San Pedro",
+"p": "Buenos Aires",
+"f": "Ma-Ju",
+"s": "Campana"
+},
+{
+"n": "San Vicente",
+"p": "Buenos Aires",
+"f": "Ma-Ju",
+"s": "Almirante Brown"
+},
+{
+"n": "Santos Lugares",
+"p": "Buenos Aires",
+"f": "24/48 hs",
+"s": "Tres de Febrero"
+},
+{
+"n": "Sarandí",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "Avellaneda"
+},
+{
+"n": "Sourigues",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "Berazategui"
+},
+{
+"n": "Tablada",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "La Matanza"
+},
+{
+"n": "Tandil",
+"p": "Buenos Aires",
+"f": "24/48 hs",
+"s": "Tandil"
+},
+{
+"n": "Tapiales",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "La Matanza"
+},
+{
+"n": "Temperley",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "Lomas de Zamora"
+},
+{
+"n": "Teodd",
+"p": "Buenos Aires",
+"f": "48 hs",
+"s": "Arrecifes"
+},
+{
+"n": "Tigre",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "Tigre"
+},
+{
+"n": "Tolosa",
+"p": "Buenos Aires",
+"f": "Ma-Ju",
+"s": "La Plata"
+},
+{
+"n": "Tortuguitas",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "General Pacheco"
+},
+{
+"n": "Tres Arroyos",
+"p": "Buenos Aires",
+"f": "48/72 hs",
+"s": "Tres Arroyos"
+},
+{
+"n": "Tristan Suarez",
+"p": "Buenos Aires",
+"f": "72 hs",
+"s": "Almirante Brown"
+},
+{
+"n": "Turdera",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "Lomas de Zamora"
+},
+{
+"n": "Valentín Alsina",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "Lanús"
+},
+{
+"n": "Vicente López",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "Vicente López"
+},
+{
+"n": "Victoria",
+"p": "Buenos Aires",
+"f": "24/48 hs",
+"s": "Tigre"
+},
+{
+"n": "Villa Adelina",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "Villa Martelli"
+},
+{
+"n": "Villa Astolfi",
+"p": "Buenos Aires",
+"f": "24/48 hs",
+"s": "Pilar"
+},
+{
+"n": "Villa Ballester",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "General San Martín"
+},
+{
+"n": "Villa Bosch",
+"p": "Buenos Aires",
+"f": "24/48 hs",
+"s": "Tres de Febrero"
+},
+{
+"n": "Villa Celina",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "La Matanza"
+},
+{
+"n": "Villa Domínico",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "Avellaneda"
+},
+{
+"n": "Villa Elisa",
+"p": "Buenos Aires",
+"f": "Ma-Ju",
+"s": "La Plata"
+},
+{
+"n": "Villa España",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "Berazategui"
+},
+{
+"n": "Villa Insuperable",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "La Matanza"
+},
+{
+"n": "Villa La Florida",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "Avellaneda"
+},
+{
+"n": "Villa Luzuriaga",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "La Matanza"
+},
+{
+"n": "Villa Lynch",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "General San Martín"
+},
+{
+"n": "Villa Madero",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "La Matanza"
+},
+{
+"n": "Villa Maipú",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "General San Martín"
+},
+{
+"n": "Villa Martelli",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "Villa Martelli"
+},
+{
+"n": "Villa Raffo",
+"p": "Buenos Aires",
+"f": "24/48 hs",
+"s": "Tres de Febrero"
+},
+{
+"n": "Villa Ramallo",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "San Nicolás"
+},
+{
+"n": "Villa Rosa",
+"p": "Buenos Aires",
+"f": "Sáb",
+"s": "Pilar"
+},
+{
+"n": "Villa Santos Tesei",
+"p": "Buenos Aires",
+"f": "48 hs",
+"s": "Morón"
+},
+{
+"n": "Villa Sarmiento",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "Morón"
+},
+{
+"n": "Virreyes",
+"p": "Buenos Aires",
+"f": "24/48 hs",
+"s": "Tigre"
+},
+{
+"n": "Viña",
+"p": "Buenos Aires",
+"f": "48 hs",
+"s": "Arrecifes"
+},
+{
+"n": "Wilde",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "Avellaneda"
+},
+{
+"n": "Zárate",
+"p": "Buenos Aires",
+"f": "24 hs",
+"s": "Zárate"
+},
+{
+"n": "Barranqueras",
+"p": "Chaco",
+"f": "24/48 hs",
+"s": "Resistencia"
+},
+{
+"n": "Charata",
+"p": "Chaco",
+"f": "24/48 hs",
+"s": "Charata"
+},
+{
+"n": "Colonia J. José Castelli",
+"p": "Chaco",
+"f": "Ju",
+"s": "Gral. José de S. Martín"
+},
+{
+"n": "Colonias Unidas",
+"p": "Chaco",
+"f": "Lu",
+"s": "Gral. José de S. Martín"
+},
+{
+"n": "Coronel Du Graty",
+"p": "Chaco",
+"f": "Ma-Ju",
+"s": "Charata"
+},
+{
+"n": "Corzuela",
+"p": "Chaco",
+"f": "24/48 hs",
+"s": "Charata"
+},
+{
+"n": "Fontana",
+"p": "Chaco",
+"f": "24/48 hs",
+"s": "Resistencia"
+},
+{
+"n": "Gancedo",
+"p": "Chaco",
+"f": "Mié y Vie",
+"s": "Charata",
+"nota": "Solo retiro en sucursal."
+},
+{
+"n": "Gral. José de S. Martín",
+"p": "Chaco",
+"f": "Lu-Mi-Vi",
+"s": "Gral. José de S. Martín"
+},
+{
+"n": "Gral. Pinedo",
+"p": "Chaco",
+"f": "24/48 hs",
+"s": "Charata"
+},
+{
+"n": "Gral. Vedia",
+"p": "Chaco",
+"f": "Mi",
+"s": "Gral. José de S. Martín"
+},
+{
+"n": "Hermoso Campo",
+"p": "Chaco",
+"f": "Ma-Ju",
+"s": "Charata"
+},
+{
+"n": "La Leonesa",
+"p": "Chaco",
+"f": "Mi",
+"s": "Gral. José de S. Martín"
+},
+{
+"n": "Las Breñas",
+"p": "Chaco",
+"f": "24/48 hs",
+"s": "Charata"
+},
+{
+"n": "Las Garcitas",
+"p": "Chaco",
+"f": "Lu",
+"s": "Gral. José de S. Martín"
+},
+{
+"n": "Las Palmas",
+"p": "Chaco",
+"f": "Mi",
+"s": "Gral. José de S. Martín"
+},
+{
+"n": "Machagai",
+"p": "Chaco",
+"f": "Ma-Ju",
+"s": "Pte. R. Saenz Peña"
+},
+{
+"n": "Pampa del Indio",
+"p": "Chaco",
+"f": "Vi",
+"s": "Gral. José de S. Martín"
+},
+{
+"n": "Pres.Roque Saenz Peña",
+"p": "Chaco",
+"f": "24/48 hs",
+"s": "Pte. R. Saenz Peña"
+},
+{
+"n": "Puerto Tirol Pqe. Ind.",
+"p": "Chaco",
+"f": "24/48 hs",
+"s": "Resistencia"
+},
+{
+"n": "Puerto Vilelas",
+"p": "Chaco",
+"f": "24/48 hs",
+"s": "Resistencia"
+},
+{
+"n": "Quitilipi",
+"p": "Chaco",
+"f": "Ma-Ju",
+"s": "Pte. R. Saenz Peña"
+},
+{
+"n": "Resistencia",
+"p": "Chaco",
+"f": "24/48 hs",
+"s": "Resistencia"
+},
+{
+"n": "Santa Sylvina",
+"p": "Chaco",
+"f": "Ma-Ju",
+"s": "Charata"
+},
+{
+"n": "Villa Ángela",
+"p": "Chaco",
+"f": "Ma-Ju",
+"s": "Charata"
+},
+{
+"n": "Colonia Carolina",
+"p": "Corrientes",
+"f": "Lu-Mi-Vi",
+"s": "Goya"
+},
+{
+"n": "Corrientes",
+"p": "Corrientes",
+"f": "24 hs",
+"s": "Corrientes"
+},
+{
+"n": "Goya",
+"p": "Corrientes",
+"f": "Lu-Mi-Vi",
+"s": "Goya"
+},
+{
+"n": "Lavalle",
+"p": "Corrientes",
+"f": "Lu-Mi-Vi",
+"s": "Goya"
+},
+{
+"n": "Paso de los Libres",
+"p": "Corrientes",
+"f": "Lu-Mi",
+"s": "Paso de los Libres"
+},
+{
+"n": "Santa Lucía",
+"p": "Corrientes",
+"f": "Lu-Mi-Vi",
+"s": "Goya"
+},
+{
+"n": "Almafuerte",
+"p": "Córdoba",
+"f": "72 hs",
+"s": "Río Tercero"
+},
+{
+"n": "Alta Gracia",
+"p": "Córdoba",
+"f": "24 hs",
+"s": "Alta Gracia"
+},
+{
+"n": "Anisacate",
+"p": "Córdoba",
+"f": "24/48 hs",
+"s": "Alta Gracia"
+},
+{
+"n": "Arroyito",
+"p": "Córdoba",
+"f": "24 hs",
+"s": "Arroyito"
+},
+{
+"n": "Bell Ville",
+"p": "Córdoba",
+"f": "24 hs",
+"s": "Bell Ville"
+},
+{
+"n": "Berrotarán",
+"p": "Córdoba",
+"f": "Lu-Mi-Vi",
+"s": "Río Tercero"
+},
+{
+"n": "Bialet Massé",
+"p": "Córdoba",
+"f": "Lu-Mi-Vi",
+"s": "La Falda"
+},
+{
+"n": "Brinkmann",
+"p": "Córdoba",
+"f": "",
+"s": "Morteros",
+"nota": "La frecuencia varía de semana a semana; se confirma con la sucursal."
+},
+{
+"n": "Capilla del Monte",
+"p": "Córdoba",
+"f": "Lu-Mi-Vi",
+"s": "La Falda"
+},
+{
+"n": "Casa Grande",
+"p": "Córdoba",
+"f": "Lu-Mi-Vi",
+"s": "La Falda"
+},
+{
+"n": "Charbonier",
+"p": "Córdoba",
+"f": "Ma-Ju",
+"s": "La Falda"
+},
+{
+"n": "Colonia Caroya",
+"p": "Córdoba",
+"f": "24/48 hs",
+"s": "Jesús María"
+},
+{
+"n": "Comuna San Roque",
+"p": "Córdoba",
+"f": "24/48 hs",
+"s": "La Falda"
+},
+{
+"n": "Cosquín",
+"p": "Córdoba",
+"f": "Lu-Mi-Vi",
+"s": "La Falda"
+},
+{
+"n": "Costa Sacate",
+"p": "Córdoba",
+"f": "24 hs",
+"s": "Río Segundo"
+},
+{
+"n": "Cruz del eje",
+"p": "Córdoba",
+"f": "Ma-Ju",
+"s": "La Falda"
+},
+{
+"n": "Córdoba",
+"p": "Córdoba",
+"f": "24 hs",
+"s": "Córdoba"
+},
+{
+"n": "Dolores",
+"p": "Córdoba",
+"f": "Lu-Mi-Vi",
+"s": "La Falda"
+},
+{
+"n": "El Corcovado",
+"p": "Córdoba",
+"f": "24/48 hs",
+"s": "Alta Gracia"
+},
+{
+"n": "Embalse",
+"p": "Córdoba",
+"f": "24/48 hs",
+"s": "Alta Gracia"
+},
+{
+"n": "Estación Gral. Paz",
+"p": "Córdoba",
+"f": "48 hs",
+"s": "Jesús María"
+},
+{
+"n": "Ferreyra",
+"p": "Córdoba",
+"f": "24 hs",
+"s": "Córdoba"
+},
+{
+"n": "Frontera",
+"p": "Córdoba",
+"f": "24 hs",
+"s": "San Francisco"
+},
+{
+"n": "General Cabrera",
+"p": "Córdoba",
+"f": "24/48 hs",
+"s": "General Deheza"
+},
+{
+"n": "General Deheza",
+"p": "Córdoba",
+"f": "24/48 hs",
+"s": "General Deheza"
+},
+{
+"n": "Guiñazú",
+"p": "Córdoba",
+"f": "48 hs",
+"s": "Jesús María"
+},
+{
+"n": "James Craik",
+"p": "Córdoba",
+"f": "Viernes",
+"s": "Oncativo"
+},
+{
+"n": "Jesús María",
+"p": "Córdoba",
+"f": "24 hs",
+"s": "Jesús María"
+},
+{
+"n": "Justiniano Posse",
+"p": "Córdoba",
+"f": "24 hs",
+"s": "Bell Ville"
+},
+{
+"n": "Juárez Celman",
+"p": "Córdoba",
+"f": "48 hs",
+"s": "Jesús María"
+},
+{
+"n": "La Bolsa",
+"p": "Córdoba",
+"f": "24/48 hs",
+"s": "Alta Gracia"
+},
+{
+"n": "La Calera (Cordoba)",
+"p": "Córdoba",
+"f": "24/48 hs",
+"s": "Villa Allende"
+},
+{
+"n": "La Carlota",
+"p": "Córdoba",
+"f": "Lu-Mi-Vi",
+"s": "La Carlota"
+},
+{
+"n": "La Cumbre",
+"p": "Córdoba",
+"f": "Lu-Mi-Vi",
+"s": "La Falda"
+},
+{
+"n": "La Falda",
+"p": "Córdoba",
+"f": "Lu-Mi-Vi",
+"s": "La Falda"
+},
+{
+"n": "La Perla",
+"p": "Córdoba",
+"f": "72 hs",
+"s": "Villa Carlos Paz"
+},
+{
+"n": "Laguna Larga",
+"p": "Córdoba",
+"f": "24 hs",
+"s": "Río Segundo"
+},
+{
+"n": "Las Higueras",
+"p": "Córdoba",
+"f": "48 hs",
+"s": "Río Cuarto"
+},
+{
+"n": "Las Varillas",
+"p": "Córdoba",
+"f": "Lu-Mi-Vi",
+"s": "Las Varillas"
+},
+{
+"n": "Leones",
+"p": "Córdoba",
+"f": "24/48 hs",
+"s": "Marcos Juárez"
+},
+{
+"n": "Los Aromos",
+"p": "Córdoba",
+"f": "48 hs",
+"s": "Alta Gracia"
+},
+{
+"n": "Los Cocos",
+"p": "Córdoba",
+"f": "Lu-Mi-Vi",
+"s": "La Falda"
+},
+{
+"n": "Los Cóndores",
+"p": "Córdoba",
+"f": "Lu-Mi-Vi",
+"s": "Río Tercero"
+},
+{
+"n": "Los Reartes",
+"p": "Córdoba",
+"f": "24/48 hs",
+"s": "Alta Gracia"
+},
+{
+"n": "Lozada",
+"p": "Córdoba",
+"f": "72 hs",
+"s": "Río Segundo"
+},
+{
+"n": "Luque",
+"p": "Córdoba",
+"f": "Ma-Vie",
+"s": "Río Segundo"
+},
+{
+"n": "Malagueño",
+"p": "Córdoba",
+"f": "72 hs",
+"s": "Villa Carlos Paz"
+},
+{
+"n": "Malvinas Argentinas",
+"p": "Córdoba",
+"f": "Lu-Mi-Vi",
+"s": "Monte Cristo"
+},
+{
+"n": "Manfredi",
+"p": "Córdoba",
+"f": "Lu-Mi-Vi",
+"s": "Oncativo"
+},
+{
+"n": "Marcos Juárez",
+"p": "Córdoba",
+"f": "24 hs",
+"s": "Marcos Juárez"
+},
+{
+"n": "Marul",
+"p": "Córdoba",
+"f": "Lu-Mi-Vi",
+"s": "Río Primero"
+},
+{
+"n": "Mendiolaza",
+"p": "Córdoba",
+"f": "24/48 hs",
+"s": "Villa Allende"
+},
+{
+"n": "Monte Cristo",
+"p": "Córdoba",
+"f": "Lu-Mi-Vi",
+"s": "Monte Cristo"
+},
+{
+"n": "Monte Maíz",
+"p": "Córdoba",
+"f": "24/48 hs",
+"s": "Monte Maíz"
+},
+{
+"n": "Morrison",
+"p": "Córdoba",
+"f": "24/48 hs",
+"s": "Bell Ville"
+},
+{
+"n": "Oliva",
+"p": "Córdoba",
+"f": "24 hs",
+"s": "Oncativo"
+},
+{
+"n": "Oncativo",
+"p": "Córdoba",
+"f": "48 hs",
+"s": "Oncativo"
+},
+{
+"n": "Pedro E. Vivas",
+"p": "Córdoba",
+"f": "24 hs",
+"s": "Río Primero"
+},
+{
+"n": "Pilar",
+"p": "Córdoba",
+"f": "Lu-Mi-Vi",
+"s": "Río Segundo"
+},
+{
+"n": "Piquillin",
+"p": "Córdoba",
+"f": "24 hs",
+"s": "Río Primero"
+},
+{
+"n": "Porteña",
+"p": "Córdoba",
+"f": "Lu-Mi-Vi",
+"s": "Morteros"
+},
+{
+"n": "Potrero de Garay",
+"p": "Córdoba",
+"f": "",
+"s": "Alta Gracia",
+"nota": "La frecuencia varía de semana a semana; se confirma con la sucursal."
+},
+{
+"n": "Rincón",
+"p": "Córdoba",
+"f": "24/48 hs",
+"s": "Río Segundo"
+},
+{
+"n": "Rio Ceballos",
+"p": "Córdoba",
+"f": "24/48 hs",
+"s": "Villa Allende"
+},
+{
+"n": "Río Cuarto",
+"p": "Córdoba",
+"f": "24/48 hs",
+"s": "Río Cuarto"
+},
+{
+"n": "Río Primero",
+"p": "Córdoba",
+"f": "24 hs",
+"s": "Río Primero"
+},
+{
+"n": "Río Segundo",
+"p": "Córdoba",
+"f": "24/48 hs",
+"s": "Río Segundo"
+},
+{
+"n": "Río Tercero",
+"p": "Córdoba",
+"f": "24 hs",
+"s": "Río Tercero"
+},
+{
+"n": "Saldan",
+"p": "Córdoba",
+"f": "24 hs",
+"s": "Villa Allende"
+},
+{
+"n": "San Esteban",
+"p": "Córdoba",
+"f": "24/48 hs",
+"s": "La Falda"
+},
+{
+"n": "San Francisco",
+"p": "Córdoba",
+"f": "Lu-Mi-Vi",
+"s": "San Francisco"
+},
+{
+"n": "Santiago Temple",
+"p": "Córdoba",
+"f": "24 hs",
+"s": "Río Primero"
+},
+{
+"n": "Sinsacate",
+"p": "Córdoba",
+"f": "24 hs",
+"s": "Jesús María"
+},
+{
+"n": "Sta R. de Río Primero",
+"p": "Córdoba",
+"f": "24/48 hs",
+"s": "Río Primero"
+},
+{
+"n": "Sta. María de Punilla",
+"p": "Córdoba",
+"f": "Lu-Mi-Vi",
+"s": "La Falda"
+},
+{
+"n": "Sta. R. de Calamuchita",
+"p": "Córdoba",
+"f": "Lu-Mi-Vi",
+"s": "Alta Gracia"
+},
+{
+"n": "Tancacha",
+"p": "Córdoba",
+"f": "72 hs",
+"s": "Río Tercero",
+"nota": "Una semana lunes, miércoles y viernes; la siguiente, martes y jueves."
+},
+{
+"n": "Toledo",
+"p": "Córdoba",
+"f": "24 hs",
+"s": "Río Segundo"
+},
+{
+"n": "Tránsito",
+"p": "Córdoba",
+"f": "24/48 hs",
+"s": "Río Primero"
+},
+{
+"n": "Unquillo",
+"p": "Córdoba",
+"f": "24/48 hs",
+"s": "Villa Allende"
+},
+{
+"n": "Valle Hermoso",
+"p": "Córdoba",
+"f": "Lu-Mi-Vi",
+"s": "La Falda"
+},
+{
+"n": "Villa Amancay",
+"p": "Córdoba",
+"f": "24/48 hs",
+"s": "Alta Gracia"
+},
+{
+"n": "Villa Carlos Paz",
+"p": "Córdoba",
+"f": "24 hs",
+"s": "Villa Carlos Paz"
+},
+{
+"n": "Villa Ciudad América",
+"p": "Córdoba",
+"f": "24/48 hs",
+"s": "Alta Gracia"
+},
+{
+"n": "Villa Ciudad Parque",
+"p": "Córdoba",
+"f": "24/48 hs",
+"s": "Alta Gracia"
+},
+{
+"n": "Villa Giardino",
+"p": "Córdoba",
+"f": "Lu-Mi-Vi",
+"s": "La Falda"
+},
+{
+"n": "Villa Gral. Belgrano",
+"p": "Córdoba",
+"f": "24/48 hs",
+"s": "Alta Gracia"
+},
+{
+"n": "Villa Los Aromos",
+"p": "Córdoba",
+"f": "24/48 hs",
+"s": "Alta Gracia"
+},
+{
+"n": "Villa María",
+"p": "Córdoba",
+"f": "24 hs",
+"s": "Villa María"
+},
+{
+"n": "Villa Nueva",
+"p": "Córdoba",
+"f": "24 hs",
+"s": "Villa María"
+},
+{
+"n": "Villa Rumipal",
+"p": "Córdoba",
+"f": "24/48 hs",
+"s": "Alta Gracia"
+},
+{
+"n": "Villa San Nicolás",
+"p": "Córdoba",
+"f": "72 hs",
+"s": "Villa Carlos Paz"
+},
+{
+"n": "Villa Santa Rosa",
+"p": "Córdoba",
+"f": "Lu-Mi-Vi",
+"s": "Río Primero"
+},
+{
+"n": "Villa Serranita",
+"p": "Córdoba",
+"f": "24/48 hs",
+"s": "Alta Gracia"
+},
+{
+"n": "Villa del Dique",
+"p": "Córdoba",
+"f": "24/48 hs",
+"s": "Alta Gracia"
+},
+{
+"n": "Villa del Rosario",
+"p": "Córdoba",
+"f": "24 hs",
+"s": "Río Segundo"
+},
+{
+"n": "Yocsina",
+"p": "Córdoba",
+"f": "72 hs",
+"s": "Villa Carlos Paz"
+},
+{
+"n": "Aldea Protestante",
+"p": "Entre Ríos",
+"f": "Ma-Ju",
+"s": "Crespo"
+},
+{
+"n": "Aldea Valle Marìa",
+"p": "Entre Ríos",
+"f": "Ma-Ju",
+"s": "Crespo"
+},
+{
+"n": "Aranguren",
+"p": "Entre Ríos",
+"f": "Ma-Vi",
+"s": "Crespo"
+},
+{
+"n": "Camps",
+"p": "Entre Ríos",
+"f": "Ma-Vi",
+"s": "Crespo"
+},
+{
+"n": "Colón",
+"p": "Entre Ríos",
+"f": "24 hs",
+"s": "Colón"
+},
+{
+"n": "Concep. del Uruguay",
+"p": "Entre Ríos",
+"f": "24 hs",
+"s": "Concep. del Uruguay"
+},
+{
+"n": "Concordia",
+"p": "Entre Ríos",
+"f": "24 hs",
+"s": "Concordia"
+},
+{
+"n": "Crespo",
+"p": "Entre Ríos",
+"f": "24 hs",
+"s": "Crespo"
+},
+{
+"n": "Diamante",
+"p": "Entre Ríos",
+"f": "Ma-Ju",
+"s": "Crespo"
+},
+{
+"n": "General Ramírez",
+"p": "Entre Ríos",
+"f": "Ma-Vi",
+"s": "Crespo"
+},
+{
+"n": "Gualeguaychú",
+"p": "Entre Ríos",
+"f": "24 hs",
+"s": "Gualeguaychú"
+},
+{
+"n": "Hernández",
+"p": "Entre Ríos",
+"f": "Ma-Vi",
+"s": "Crespo"
+},
+{
+"n": "Paraná",
+"p": "Entre Ríos",
+"f": "24 hs",
+"s": "Paraná"
+},
+{
+"n": "San José",
+"p": "Entre Ríos",
+"f": "Ma-Ju",
+"s": "Colón"
+},
+{
+"n": "Villa Elisa",
+"p": "Entre Ríos",
+"f": "24/48 hs",
+"s": "Villa Elisa"
+},
+{
+"n": "Villa L. Gral. San Martín",
+"p": "Entre Ríos",
+"f": "Ma-Ju",
+"s": "Crespo"
+},
+{
+"n": "Clorinda",
+"p": "Formosa",
+"f": "Lu-Mi-Vi",
+"s": "Clorinda"
+},
+{
+"n": "El Colorado",
+"p": "Formosa",
+"f": "Mi-Vi",
+"s": "Gral. José de S. Martín"
+},
+{
+"n": "Espinillo",
+"p": "Formosa",
+"f": "Lu-Mi-Vi",
+"s": "Clorinda"
+},
+{
+"n": "Formosa",
+"p": "Formosa",
+"f": "24/48 hs",
+"s": "Formosa"
+},
+{
+"n": "General Belgrano",
+"p": "Formosa",
+"f": "Lu-Mi-Vi",
+"s": "Clorinda"
+},
+{
+"n": "Ibarreta",
+"p": "Formosa",
+"f": "Ma",
+"s": "Gral. José de S. Martín"
+},
+{
+"n": "Laguna Blanca",
+"p": "Formosa",
+"f": "Lu-Mi-Vi",
+"s": "Clorinda"
+},
+{
+"n": "Laguna Naick Neck",
+"p": "Formosa",
+"f": "Lu-Mi-Vi",
+"s": "Clorinda"
+},
+{
+"n": "Pirané",
+"p": "Formosa",
+"f": "Lu-Ju",
+"s": "Gral. José de S. Martín"
+},
+{
+"n": "Villa 213",
+"p": "Formosa",
+"f": "Lu",
+"s": "Gral. José de S. Martín"
+},
+{
+"n": "La Rioja Capital",
+"p": "La Rioja",
+"f": "48/72 hs",
+"s": "La Rioja"
+},
+{
+"n": "Fray Luis Beltran",
+"p": "Mendoza",
+"f": "48/72 hs",
+"s": "Mendoza"
+},
+{
+"n": "General Gutierrez",
+"p": "Mendoza",
+"f": "",
+"s": "Mendoza"
+},
+{
+"n": "Godoy Cruz",
+"p": "Mendoza",
+"f": "",
+"s": "Mendoza"
+},
+{
+"n": "Guaymallen",
+"p": "Mendoza",
+"f": "48/72 hs",
+"s": "Mendoza"
+},
+{
+"n": "Las Heras",
+"p": "Mendoza",
+"f": "",
+"s": "Mendoza"
+},
+{
+"n": "Lujan De Cuyo",
+"p": "Mendoza",
+"f": "48/72 hs",
+"s": "Mendoza"
+},
+{
+"n": "Maipu",
+"p": "Mendoza",
+"f": "48/72 hs",
+"s": "Mendoza"
+},
+{
+"n": "Palmira",
+"p": "Mendoza",
+"f": "48/72 hs",
+"s": "Mendoza"
+},
+{
+"n": "Perdriel",
+"p": "Mendoza",
+"f": "48/72 hs",
+"s": "Mendoza"
+},
+{
+"n": "Rodeo De La Cruz",
+"p": "Mendoza",
+"f": "",
+"s": "Mendoza"
+},
+{
+"n": "Rodeo Del Medio",
+"p": "Mendoza",
+"f": "",
+"s": "Mendoza"
+},
+{
+"n": "S. Francisco Del Monte",
+"p": "Mendoza",
+"f": "48/72 hs",
+"s": "Mendoza"
+},
+{
+"n": "San Rafael",
+"p": "Mendoza",
+"f": "48/72 hs",
+"s": "San Rafael"
+},
+{
+"n": "Tunuyan",
+"p": "Mendoza",
+"f": "",
+"s": "Mendoza"
+},
+{
+"n": "Posadas",
+"p": "Misiones",
+"f": "Lu-Mi-Vi",
+"s": "Posadas"
+},
+{
+"n": "Pocito",
+"p": "San Juan",
+"f": "48/72 hs",
+"s": "San Juan"
+},
+{
+"n": "San Juan",
+"p": "San Juan",
+"f": "48/72 hs",
+"s": "San Juan"
+},
+{
+"n": "Santa Lucía",
+"p": "San Juan",
+"f": "48/72 hs",
+"s": "San Juan"
+},
+{
+"n": "San Luis Capital",
+"p": "San Luis",
+"f": "48/72 hs",
+"s": "San Luis"
+},
+{
+"n": "Alvear",
+"p": "Santa Fe",
+"f": "24/48 hs",
+"s": "Villa Gdor. Gálvez"
+},
+{
+"n": "Arequito",
+"p": "Santa Fe",
+"f": "24/48 hs",
+"s": "Chabás"
+},
+{
+"n": "Armstrong",
+"p": "Santa Fe",
+"f": "Lu-Mi-Vi",
+"s": "Cañada de Gómez"
+},
+{
+"n": "Arroyo Seco",
+"p": "Santa Fe",
+"f": "Lu-Mi-Vi",
+"s": "Villa Constitución"
+},
+{
+"n": "Artega",
+"p": "Santa Fe",
+"f": "24/48 hs",
+"s": "Chabás"
+},
+{
+"n": "Avellaneda - Santa Fe",
+"p": "Santa Fe",
+"f": "24/48 hs",
+"s": "Avellaneda (Santa Fe)"
+},
+{
+"n": "Calchaquí",
+"p": "Santa Fe",
+"f": "24/48 hs",
+"s": "Calchaquí"
+},
+{
+"n": "Capitán Bermúdez",
+"p": "Santa Fe",
+"f": "24/48 hs",
+"s": "Granadero Baigorria"
+},
+{
+"n": "Carcarañá",
+"p": "Santa Fe",
+"f": "24/48 hs",
+"s": "Cañada de Gómez"
+},
+{
+"n": "Carlos pellegrini",
+"p": "Santa Fe",
+"f": "24/48 hs",
+"s": "El Trébol"
+},
+{
+"n": "Casilda",
+"p": "Santa Fe",
+"f": "24/48 hs",
+"s": "Casilda"
+},
+{
+"n": "Cañada de Gómez",
+"p": "Santa Fe",
+"f": "24/48 hs",
+"s": "Cañada de Gómez"
+},
+{
+"n": "Ceres",
+"p": "Santa Fe",
+"f": "24/48 hs",
+"s": "Ceres"
+},
+{
+"n": "Chabás",
+"p": "Santa Fe",
+"f": "24/48 hs",
+"s": "Chabás"
+},
+{
+"n": "El Trébol",
+"p": "Santa Fe",
+"f": "24/48 hs",
+"s": "El Trébol"
+},
+{
+"n": "Empalme V. Constitución",
+"p": "Santa Fe",
+"f": "24/48 hs",
+"s": "Villa Constitución"
+},
+{
+"n": "Esperanza",
+"p": "Santa Fe",
+"f": "24/48 hs",
+"s": "Esperanza"
+},
+{
+"n": "Fighiera",
+"p": "Santa Fe",
+"f": "Lu-Mi-Vi",
+"s": "Villa Constitución"
+},
+{
+"n": "Firmat",
+"p": "Santa Fe",
+"f": "24/48 hs",
+"s": "Firmat"
+},
+{
+"n": "Franck",
+"p": "Santa Fe",
+"f": "24/48 hs",
+"s": "Franck"
+},
+{
+"n": "Fray Luis Beltrán",
+"p": "Santa Fe",
+"f": "24/48 hs",
+"s": "Granadero Baigorria"
+},
+{
+"n": "Frontera",
+"p": "Santa Fe",
+"f": "24/48 hs",
+"s": "San Francisco"
+},
+{
+"n": "Funes",
+"p": "Santa Fe",
+"f": "Ma-Ju",
+"s": "Villa Gdor. Gálvez"
+},
+{
+"n": "General Lagos",
+"p": "Santa Fe",
+"f": "Ma-Ju",
+"s": "Villa Gdor. Gálvez"
+},
+{
+"n": "Gessler",
+"p": "Santa Fe",
+"f": "24/48 hs",
+"s": "Franck"
+},
+{
+"n": "Gobernador Crespo",
+"p": "Santa Fe",
+"f": "Ma-Ju",
+"s": "Gobernador Crespo"
+},
+{
+"n": "Granadero Baigorria",
+"p": "Santa Fe",
+"f": "24/48 hs",
+"s": "Granadero Baigorria"
+},
+{
+"n": "Guadalupe Norte",
+"p": "Santa Fe",
+"f": "24/48 hs",
+"s": "Reconquista"
+},
+{
+"n": "Gálvez",
+"p": "Santa Fe",
+"f": "24/48 hs",
+"s": "Santo Tomé"
+},
+{
+"n": "Ibarlucea",
+"p": "Santa Fe",
+"f": "24/48 hs",
+"s": "Granadero Baigorria"
+},
+{
+"n": "La Criolla",
+"p": "Santa Fe",
+"f": "Ma-Ju",
+"s": "Calchaquí"
+},
+{
+"n": "Las Parejas",
+"p": "Santa Fe",
+"f": "Lu-Mi-Vi",
+"s": "Cañada de Gómez"
+},
+{
+"n": "Las Rosas",
+"p": "Santa Fe",
+"f": "Lu-Mi-Vi",
+"s": "Cañada de Gómez"
+},
+{
+"n": "Las Toscas",
+"p": "Santa Fe",
+"f": "24/48 hs",
+"s": "Las Toscas"
+},
+{
+"n": "Las Tunas",
+"p": "Santa Fe",
+"f": "24/48 hs",
+"s": "Franck"
+},
+{
+"n": "Los Molinos",
+"p": "Santa Fe",
+"f": "24/48 hs",
+"s": "Chabás"
+},
+{
+"n": "Margarita",
+"p": "Santa Fe",
+"f": "Viernes",
+"s": "Calchaquí"
+},
+{
+"n": "Maria Juana",
+"p": "Santa Fe",
+"f": "24/48 hs",
+"s": "El Trébol"
+},
+{
+"n": "Parque Industrial Pérez",
+"p": "Santa Fe",
+"f": "Ma-Ju",
+"s": "Villa Gdor. Gálvez"
+},
+{
+"n": "Pavón",
+"p": "Santa Fe",
+"f": "24/48 hs",
+"s": "Villa Constitución"
+},
+{
+"n": "Pedro Gómez Cello",
+"p": "Santa Fe",
+"f": "Ma-Ju",
+"s": "Calchaquí"
+},
+{
+"n": "Pueblo Esther",
+"p": "Santa Fe",
+"f": "48 hs",
+"s": "Villa Gdor. Gálvez"
+},
+{
+"n": "Puerto Gral. San Martín",
+"p": "Santa Fe",
+"f": "24/48 hs",
+"s": "San Lorenzo"
+},
+{
+"n": "Pérez",
+"p": "Santa Fe",
+"f": "Lu-Mi",
+"s": "Villa Gdor. Gálvez"
+},
+{
+"n": "Rafaela",
+"p": "Santa Fe",
+"f": "24/48 hs",
+"s": "Rafaela"
+},
+{
+"n": "Reconquista",
+"p": "Santa Fe",
+"f": "24/48 hs",
+"s": "Reconquista"
+},
+{
+"n": "Ricardone",
+"p": "Santa Fe",
+"f": "24/48 hs",
+"s": "San Lorenzo"
+},
+{
+"n": "Roldán",
+"p": "Santa Fe",
+"f": "24/48 hs",
+"s": "Granadero Baigorria"
+},
+{
+"n": "Rosario",
+"p": "Santa Fe",
+"f": "24/48 hs",
+"s": "Rosario"
+},
+{
+"n": "San Agustin",
+"p": "Santa Fe",
+"f": "24/48 hs",
+"s": "Franck"
+},
+{
+"n": "San Antonio de Obligado",
+"p": "Santa Fe",
+"f": "24/48 hs",
+"s": "Las Toscas"
+},
+{
+"n": "San Carlos Centro",
+"p": "Santa Fe",
+"f": "24/48 hs",
+"s": "Franck"
+},
+{
+"n": "San Carlos Norte",
+"p": "Santa Fe",
+"f": "24/48 hs",
+"s": "Franck"
+},
+{
+"n": "San Carlos Sur",
+"p": "Santa Fe",
+"f": "24/48 hs",
+"s": "Franck"
+},
+{
+"n": "San Javier",
+"p": "Santa Fe",
+"f": "Mi",
+"s": "Calchaquí"
+},
+{
+"n": "San Jeronimo Norte",
+"p": "Santa Fe",
+"f": "24/48 hs",
+"s": "Franck"
+},
+{
+"n": "San Jeronimo del Sauce",
+"p": "Santa Fe",
+"f": "24/48 hs",
+"s": "Franck"
+},
+{
+"n": "San Jerónimo Sur",
+"p": "Santa Fe",
+"f": "Mi",
+"s": "Granadero Baigorria"
+},
+{
+"n": "San Jorge",
+"p": "Santa Fe",
+"f": "24/48 hs",
+"s": "San Jorge"
+},
+{
+"n": "San José de la Esquina",
+"p": "Santa Fe",
+"f": "24/48 hs",
+"s": "Chabás"
+},
+{
+"n": "San Justo",
+"p": "Santa Fe",
+"f": "24/48 hs",
+"s": "San Justo"
+},
+{
+"n": "San Lorenzo",
+"p": "Santa Fe",
+"f": "24/48 hs",
+"s": "San Lorenzo"
+},
+{
+"n": "Sanford",
+"p": "Santa Fe",
+"f": "24/48 hs",
+"s": "Chabás"
+},
+{
+"n": "Santa Fe",
+"p": "Santa Fe",
+"f": "24/48 hs",
+"s": "Santa Fe"
+},
+{
+"n": "Santo Tomé",
+"p": "Santa Fe",
+"f": "24/48 hs",
+"s": "Santo Tomé"
+},
+{
+"n": "Sauce Viejo - P. Indu.",
+"p": "Santa Fe",
+"f": "24/48 hs",
+"s": "Santo Tomé"
+},
+{
+"n": "Soldini",
+"p": "Santa Fe",
+"f": "Ma-Ju",
+"s": "Villa Gdor. Gálvez"
+},
+{
+"n": "Sunchales",
+"p": "Santa Fe",
+"f": "24/48 hs",
+"s": "Sunchales"
+},
+{
+"n": "Tacuarendí",
+"p": "Santa Fe",
+"f": "24/48 hs",
+"s": "Las Toscas"
+},
+{
+"n": "Tostado",
+"p": "Santa Fe",
+"f": "Ma-Ju",
+"s": "Tostado"
+},
+{
+"n": "Venado Tuerto",
+"p": "Santa Fe",
+"f": "24/48 hs",
+"s": "Venado Tuerto"
+},
+{
+"n": "Vera",
+"p": "Santa Fe",
+"f": "24/48 hs",
+"s": "Vera"
+},
+{
+"n": "Vera y Pintado",
+"p": "Santa Fe",
+"f": "Ma-Ju",
+"s": "Calchaquí"
+},
+{
+"n": "Villa Constitución",
+"p": "Santa Fe",
+"f": "24/48 hs",
+"s": "Villa Constitución"
+},
+{
+"n": "Villa Gdor. Gálvez",
+"p": "Santa Fe",
+"f": "24/48 hs",
+"s": "Villa Gdor. Gálvez"
+},
+{
+"n": "Villa Ocampo",
+"p": "Santa Fe",
+"f": "24/48 hs",
+"s": "Las Toscas"
+},
+{
+"n": "Villada",
+"p": "Santa Fe",
+"f": "24/48 hs",
+"s": "Chabás"
+},
+{
+"n": "Bandera",
+"p": "Santiago del Estero",
+"f": "24/48 hs",
+"s": "Bandera"
+},
+{
+"n": "Juríes",
+"p": "Santiago del Estero",
+"f": "24/48 hs",
+"s": "Bandera"
+},
+{
+"n": "La Banda",
+"p": "Santiago del Estero",
+"f": "24/48 hs",
+"s": "La Banda"
+},
+{
+"n": "Quimilí",
+"p": "Santiago del Estero",
+"f": "Ma/Jue",
+"s": "Quimilí"
+},
+{
+"n": "Santiago del Estero",
+"p": "Santiago del Estero",
+"f": "24/48 hs",
+"s": "Santiago del Estero"
+},
+{
+"n": "Alderetes",
+"p": "Tucumán",
+"f": "24/48 hs",
+"s": "S. Miguel de Tucumán"
+},
+{
+"n": "Banda del Río Salí",
+"p": "Tucumán",
+"f": "24/48 hs",
+"s": "S. Miguel de Tucumán"
+},
+{
+"n": "Cevil Redondo",
+"p": "Tucumán",
+"f": "24/48 hs",
+"s": "S. Miguel de Tucumán"
+},
+{
+"n": "El Manatial",
+"p": "Tucumán",
+"f": "24/48 hs",
+"s": "S. Miguel de Tucumán"
+},
+{
+"n": "Las Talitas",
+"p": "Tucumán",
+"f": "24/48 hs",
+"s": "S. Miguel de Tucumán"
+},
+{
+"n": "Lastenia",
+"p": "Tucumán",
+"f": "24/48 hs",
+"s": "S. Miguel de Tucumán"
+},
+{
+"n": "Los Pocitos",
+"p": "Tucumán",
+"f": "24/48 hs",
+"s": "S. Miguel de Tucumán"
+},
+{
+"n": "S. Miguel de Tucumán",
+"p": "Tucumán",
+"f": "24/48 hs",
+"s": "S. Miguel de Tucumán"
+},
+{
+"n": "San Andrés",
+"p": "Tucumán",
+"f": "24/48 hs",
+"s": "S. Miguel de Tucumán"
+},
+{
+"n": "San Jose",
+"p": "Tucumán",
+"f": "24/48 hs",
+"s": "S. Miguel de Tucumán"
+},
+{
+"n": "San Pablo",
+"p": "Tucumán",
+"f": "24/48 hs",
+"s": "S. Miguel de Tucumán"
+},
+{
+"n": "Tafí Viejo",
+"p": "Tucumán",
+"f": "24/48 hs",
+"s": "S. Miguel de Tucumán"
+},
+{
+"n": "Villa Carmela",
+"p": "Tucumán",
+"f": "24/48 hs",
+"s": "S. Miguel de Tucumán"
+},
+{
+"n": "Yerba Buena",
+"p": "Tucumán",
+"f": "24/48 hs",
+"s": "S. Miguel de Tucumán"
+}
+]
